@@ -1,0 +1,25 @@
+.main {
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-color: rgba(92, 91, 91, 255);
+    border-right-color: rgba(92, 91, 91, 255);
+    border-top-color: rgba(92, 91, 91, 255);
+    border-bottom-color: rgba(92, 91, 91, 255);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: absolute;
+    color: rgba(31, 30, 30, 255);
+    -unity-font-style: normal;
+    font-size: 12px;
+}
+
+.mainSupGround {
+    border-left-color: rgba(91, 91, 91, 255);
+    border-right-color: rgba(91, 91, 91, 255);
+    border-top-color: rgba(91, 91, 91, 255);
+    border-bottom-color: rgba(91, 91, 91, 255);
+}

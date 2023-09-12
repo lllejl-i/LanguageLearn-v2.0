@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:GroupBox style="position: absolute; left: 0; right: 0; height: 500px; background-color: rgba(192, 127, 37, 255);" />
+    <ui:GroupBox style="position: absolute; left: 0; right: 0; height: 500px; background-color: rgb(61, 180, 52); top: 550px;" />
+    <ui:GroupBox style="position: absolute; left: 0; right: 0; height: 500px; background-color: rgb(37, 192, 189); top: 1100px;" />
+    <ui:GroupBox style="position: absolute; left: 0; right: 0; height: 500px; background-color: rgb(180, 52, 53); top: 1650px;" />
+</ui:UXML>
