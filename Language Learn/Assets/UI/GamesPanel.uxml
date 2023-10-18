@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/USS/MenuButton.uss?fileID=7433441132597879392&amp;guid=e95d897f6b543984e8a07a4380fe1278&amp;type=3#MenuButton" />
+    <ui:GroupBox class="mainSupGround" style="position: absolute; left: 0; top: 100px; right: 0; bottom: 180px; background-color: rgb(250, 240, 202); justify-content: flex-start; align-items: center; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; border-top-width: 10px; border-bottom-width: 10px;">
+        <ui:Label text="Language Learn" display-tooltip-when-elided="true" style="position: absolute; font-size: 70px; -unity-font-style: bold-and-italic; color: rgb(48, 36, 36); top: 75px;" />
+    </ui:GroupBox>
+</ui:UXML>
