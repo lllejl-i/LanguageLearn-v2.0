@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgba(8, 12, 29, 0.39); align-items: center; justify-content: center;">
+        <ui:GroupBox style="width: 500px; height: 500px; background-color: rgb(255, 254, 254); margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; border-top-left-radius: 25px; border-bottom-left-radius: 25px; border-top-right-radius: 25px; border-bottom-right-radius: 25px; display: none;">
+            <ui:Label text="E-mail" display-tooltip-when-elided="true" style="color: rgb(0, 0, 0); padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; position: absolute; font-size: 25px; top: 76px; left: 64px;" />
+            <ui:Label text="Password" display-tooltip-when-elided="true" style="color: rgb(0, 0, 0); padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; position: absolute; font-size: 25px; top: 236px; left: 64px;" />
+            <ui:TextField picking-mode="Ignore" value="filler text" style="position: absolute; top: 148px; left: 56px; width: 286px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; font-size: 25px;" />
+            <ui:TextField picking-mode="Ignore" value="filler text" style="position: absolute; top: 306px; left: 56px; width: 286px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; font-size: 25px;" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" style="position: absolute; width: 128px; height: 64px; top: 408px; left: 176px;" />
+        </ui:GroupBox>
+    </ui:VisualElement>
+</ui:UXML>

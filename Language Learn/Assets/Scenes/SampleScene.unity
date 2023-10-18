@@ -341,6 +341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4ea4e9882be6e64cb376ce5bd5a4e43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _clearGamesPanel: {fileID: 9197481963319205126, guid: 6a7b4744d7b919146a8b6572b67a0ffd, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -467,6 +468,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _testToken: 123456789
   _userTestObject: {fileID: 11400000, guid: 905a79478eaaaa84f9294901d4d05f8b, type: 2}
+  _languages: []
 --- !u!114 &829233982
 MonoBehaviour:
   m_ObjectHideFlags: 0
